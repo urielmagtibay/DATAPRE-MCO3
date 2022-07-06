@@ -15,6 +15,6 @@ AvgTemperature|	Temperature in Fahrenheit |	int64
 |Variable |	Definition	| Key |
 |---------|---------------------|-------|
 |Name	|Name of the Typhoon	|Name
-*	|Strength of Typhoon|	Symbol
-Date	|Period of Storm Formation	|Days, Months, Years
+|*	|Strength of Typhoon|	Symbol|
+|Date	|Period of Storm Formation	|Days, Months, Years|
 		
