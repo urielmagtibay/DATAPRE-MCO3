@@ -44,8 +44,15 @@ Country	|Country's name	String|
 |Longitude|	Latitude in degrees|	Float|
 |Country Code|	Longitude in degrees|	Float|
 
-##Steps to Access the File
+## Steps to Access the File
 
 1. Download the whole repository
 2. Unzip the data_set zip file and place the extracted csvs in the same location with the `main` file
 3. Run the file using Jupyter Notebook
+
+## Reference
+
+Knapp, K. (n.d.). Storms by year and Basin. IBTrACS. Retrieved July 6, 2022, from http://ibtracs.unca.edu/index.php?name=browse-year-basin 
+Krishnaswami, N. (2019, July 9). DSPL/countries.csv at master · google/DSPL. GitHub. Retrieved July 6, 2022, from https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv 
+Rajkumar, S. (2020, June 5). Daily temperature of major cities. Kaggle. Retrieved July 6, 2022, from https://www.kaggle.com/datasets/sudalairajkumar/daily-temperature-of-major-cities 
+© FAO. FAOLEX Database. [Temperature Change]. License: CC BY-NC-SA 3.0 IGO. Extracted from: www.fao.org/faolex/opendata.
