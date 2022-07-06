@@ -44,4 +44,8 @@ Country	|Country's name	String|
 |Longitude|	Latitude in degrees|	Float|
 |Country Code|	Longitude in degrees|	Float|
 
-##
+##Steps to Access the File
+
+1. Download the whole repository
+2. Unzip the data_set zip file and place the extracted csvs in the same location with the `main` file
+3. Run the file using Jupyter Notebook
