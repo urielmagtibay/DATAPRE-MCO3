@@ -1,6 +1,9 @@
 # DATAPRE-MCO3
 
-### I. Data Dictionary for Average Temperature of Cities dataset
+## Data Set for Average Temperature of Cities
+The data set for average temperature of cities was gathered from Kaggle website.
+
+#### I. Data Dictionary for Average Temperature of Cities dataset
 
 |Variable |	Definition	| Dtype |
 |---------|---------------------|-------|
@@ -13,7 +16,10 @@ Day	| Day as Integer	| int64
 Year	| Year as integer	| int64
 AvgTemperature|	Temperature in Fahrenheit |	int64
 
-### II. Data Dictionary for List Typhoons per Year dataset created from Webscraping
+## Data Set List of Typhoons per Year dataset
+The data set for the list of typhoons per year was extracted from the IBTrACS website. 
+
+#### II. Data Dictionary for List of Typhoons per Year dataset created from Webscraping
 
 |Variable |	Definition	| Key |
 |---------|---------------------|-------|
@@ -21,7 +27,10 @@ AvgTemperature|	Temperature in Fahrenheit |	int64
 |*	|Strength of Typhoon|	Symbol|
 |Date	|Period of Storm Formation	|Days, Months, Years|
 
-### III. Data Dictionary for Countries and their coordinates dataset
+## Data Set List Countries and their coordinates
+The data set for the list of countries and their coordinates were gathered from Github.
+
+#### III. Data Dictionary for Countries and their coordinates dataset
 
 |Variable|	Definition|	Key|
 |---------|---------------------|-------|
@@ -33,8 +42,10 @@ Longitude	|Latitude in degrees	|Float
 Name	|Longitude in degrees|	Float
 Country	|Country's name	String|
 
+## Data Set List of Countries Temp Change and Coordinates
+The data set for the countries' temp change and their coordinates were gathered from the Food and Agriculture Organization of the United Nations open database site
 
-### I. Data Dictionary for Food and Agriculture Organization of the United Nations dataset	
+### I. Data Dictionary for Countries' Temp Change and Coordinates dataset	
 |Variable|	Definition|	Key|
 |---------|---------------------|-------|
 |Country|	Country's name|	String|
