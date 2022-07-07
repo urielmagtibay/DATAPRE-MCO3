@@ -58,7 +58,7 @@ The data set for the countries' temp change and their coordinates were gathered 
 ## Steps to Access the File
 
 1. Download the whole repository
-2. Unzip the data_set zip file and place the extracted csvs in the same location with the `main` file
+2. Unzip the data_set zip file and place the extracted csvs in the same location with the `global_temp_trend.ipynb` file
 3. Run the file using Jupyter Notebook
 
 ## Reference
